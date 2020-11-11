@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnoxinGroup/maywave.js/issues"
   },
-  "homepage": "https://github.com/AnoxinGroup/maywave.js#readme"
+  "homepage": "https://github.com/AnoxinGroup/maywave.js#readme",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
 }
